@@ -1,0 +1,3 @@
+com\mycompany\rmiexample\Server.class
+com\mycompany\rmiexample\Client.class
+com\mycompany\rmiexample\RemoteAdder.class
